@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+	hideDotFiles = dotGitOnly
+	sharedrepository = 2
+	bare = true
+[receive]
+	denyNonFastforwards = true
