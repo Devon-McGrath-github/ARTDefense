@@ -1,0 +1,16 @@
+/[Tt]emp/
+/[Bb]uild/
+.vs/
+Library/metadata/
+Library/ShaderCache/
+Library/ScriptAssemblies/
+Library/UnityAssemblies/
+Library/LastSceneManagerSetup.txt
+*.log
+Library/CrashedAssetImports.txt
+Library/CurrentLayout.dwlt
+Library/assetDatabase3
+Library/expandedItems
+*.csproj
+*.sln
+*.png
